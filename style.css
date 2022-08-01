@@ -1,0 +1,10 @@
+ul{
+list-style: none;
+position: fixed;
+
+}
+li a{
+    margin:20px 40px;
+
+text-decoration: none;
+}
